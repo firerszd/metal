@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "936d39e9-e237-4e61-9eff-e92b38d811a0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "合金弹头-1519": {
+      "ver": "1.0.3",
+      "uuid": "cf224743-e768-4a67-a0aa-5db7879022f2",
+      "rawTextureUuid": "936d39e9-e237-4e61-9eff-e92b38d811a0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 87,
+      "height": 78,
+      "rawWidth": 87,
+      "rawHeight": 78,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

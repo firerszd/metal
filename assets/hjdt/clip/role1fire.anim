@@ -1,0 +1,55 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "role1fire",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.26666666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "164ca38e-135c-409e-84ec-d98d95739920"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "1973b72d-fd2f-4404-9eb8-de9eeb1cd3e8"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "5ddb1695-c525-441c-a785-447fa7fbc094"
+            }
+          },
+          {
+            "frame": 0.15,
+            "value": {
+              "__uuid__": "1625e0f5-9f4d-4344-a32f-e36097696236"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "79e29e3e-9197-4558-8cc0-fd21c4c82f49"
+            }
+          },
+          {
+            "frame": 0.25,
+            "value": {
+              "__uuid__": "19cdbdae-3334-4151-80f6-4a9285c3290a"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}

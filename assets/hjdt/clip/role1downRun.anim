@@ -1,0 +1,86 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "role1downRun",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.32,
+  "sample": 60,
+  "speed": 0.5,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {},
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "52f00964-5d59-4eec-893c-66f93ea96ee8"
+            }
+          },
+          {
+            "frame": 0.03333333333333333,
+            "value": {
+              "__uuid__": "cb57fc65-47e9-4354-8a70-1635c3183a8d"
+            }
+          },
+          {
+            "frame": 0.06666666666666667,
+            "value": {
+              "__uuid__": "5e307a5e-c367-4046-87fc-d76b7e7c87fb"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "22de1739-24e0-4265-8142-65afd00b0797"
+            }
+          },
+          {
+            "frame": 0.13333333333333333,
+            "value": {
+              "__uuid__": "a8fb3236-0d07-4f00-9e26-784646cd33d8"
+            }
+          },
+          {
+            "frame": 0.16666666666666666,
+            "value": {
+              "__uuid__": "479b6ce4-8aa4-4003-8c93-5533138e8e3f"
+            }
+          },
+          {
+            "frame": 0.2,
+            "value": {
+              "__uuid__": "9e4bdd5e-54d2-49ed-a4dd-27caf88e886d"
+            }
+          },
+          {
+            "frame": 0.23333333333333334,
+            "value": {
+              "__uuid__": "267bbe2b-8086-4280-af23-f198f830654a"
+            }
+          },
+          {
+            "frame": 0.26666666666666666,
+            "value": {
+              "__uuid__": "e9f94ce3-8b1a-4a34-bc0d-627d88841dcb"
+            }
+          },
+          {
+            "frame": 0.3,
+            "value": {
+              "__uuid__": "9683fec7-d6e7-432e-b6f1-bd21c6889af5"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": [
+    {
+      "frame": 0,
+      "func": "",
+      "params": []
+    }
+  ]
+}

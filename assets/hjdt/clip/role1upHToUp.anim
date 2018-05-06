@@ -1,0 +1,37 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "role1upHToUp",
+  "_objFlags": 0,
+  "_rawFiles": null,
+  "_duration": 0.11666666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "comps": {
+      "cc.Sprite": {
+        "spriteFrame": [
+          {
+            "frame": 0,
+            "value": {
+              "__uuid__": "7a29c563-f42a-4330-abda-b3e5fe4378fb"
+            }
+          },
+          {
+            "frame": 0.05,
+            "value": {
+              "__uuid__": "38a3bb8b-0b80-4729-9b76-b49beb9a0112"
+            }
+          },
+          {
+            "frame": 0.1,
+            "value": {
+              "__uuid__": "e2b0c795-12fa-4a0f-97dc-2250ddb3f701"
+            }
+          }
+        ]
+      }
+    }
+  },
+  "events": []
+}
